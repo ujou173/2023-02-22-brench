@@ -2,5 +2,12 @@
   /* 내용물 */
   :root{
     /* 모바일 기초 설정 */
+    font-size: 0.75rem;
+    color: #222222;
+  }
+
+  h1 {
+    color: #555555;
+    font-size: 48px;
   }
 }
